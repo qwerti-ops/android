@@ -1,3 +1,5 @@
+Please do not download anything from there. For the official repo, see [github.com/LineageOS/android](github.com/LineageOS/android).
+
 LineageOS
 ===========
 
